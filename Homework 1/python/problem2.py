@@ -1,4 +1,14 @@
+"""
+problem2.py
+Written By: Devon Bray for CS2223
+
+Sorts a list containing values between 0 and 1000 in linear time
+
+To run: python problem2.py
+"""
+
 from random import sample
+
 
 def order_n_sort(items):
 
